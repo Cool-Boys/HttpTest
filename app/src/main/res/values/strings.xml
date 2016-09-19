@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HttpTest</string>
+    <string name="hello">Hello World, GetAPictureFromInternetActivity!</string>
+    <string name="path">The Path of the Picture</string>
+    <string name="button">View</string>
+    <string name="error">Failed to get the picture.</string>
+    <string name="str_play">播放中</string>
+    <string name="str_pause">暂停中</string>
+    <string name="str_stop">停止中</string>
+</resources>
